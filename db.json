@@ -1,1 +1,29 @@
 
+{
+  "products": [
+    {
+      id: "1",
+      productTitle: "Product 1",
+      productSubTitle: "Subtitle Product 1",
+      description: "This is the number 1 product, very good product and great quality.",
+      value: 50,
+      dateRegister: new Date()
+    },
+    {
+      id: "2",
+      productTitle: "Product 2",
+      productSubTitle: "Subtitle Product 2",
+      description: "This is the number 2 product, very good product and great quality.",
+      value: 100,
+      dateRegister: new Date()
+    },
+    {
+      id: "3",
+      productTitle: "Product 3",
+      productSubTitle: "Subtitle Product 3",
+      description: "This is the number 3 product, very good product and great quality.",
+      value: 150,
+      dateRegister: new Date()
+    }
+  ]  
+}
